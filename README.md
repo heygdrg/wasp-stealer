@@ -4,7 +4,7 @@
 They sell this for 30$💀
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/971769033496076348/1018558042402476143/manny_in_floatie.jpg" width="328"></img>
+<img src="https://cdn.discordapp.com/attachments/963114349877162004/992245751247806515/unknown.png" width="328"></img>
   </kbd>
 </p>
   
@@ -53,7 +53,11 @@ They sell this for 30$💀
 
 ### 📸 〢 Screenshots
 
-<img title="" src="[https://github.com/doener2323/doenerium/blob/doener/screenshots/1.png?raw=true](https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png)" alt="" width="450">
+<p align="center"> 
+  <kbd>
+<img src="https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png" width="328"></img>
+  </kbd>
+</p>
 
 ### ⚠️ 〢 Note
 

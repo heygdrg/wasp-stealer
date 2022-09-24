@@ -52,7 +52,7 @@ They sell this for 30$💀
 
 ### 📸 〢 Screenshots
 
-<img src="[https://cdn.discordapp.com/attachments/824105295121743872/1009108413130743888/IMG_6859.jpg](https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png)"></code></a>
+<img title="" src="[https://github.com/doener2323/doenerium/blob/doener/screenshots/1.png?raw=true](https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png)" alt="" width="450">
 
 ### ⚠️ 〢 Note
 

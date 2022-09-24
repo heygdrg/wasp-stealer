@@ -1,5 +1,6 @@
 <h1 align="center">
-⚔ W4SP Stealer 🛡
+🐝 W4SP Stealer 🐝
+<h1 align="center">
 They sell this for 30$💀
 <p align="center"> 
   <kbd>

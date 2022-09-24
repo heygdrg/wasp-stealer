@@ -52,7 +52,7 @@
 
 ### 📸 〢 Screenshots
 
-<img title="" src="[https://github.com/doener2323/doenerium/blob/doener/screenshots/1.png?raw=true](https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png)"
+<img title="" src="https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png"
 
 ### ⚠️ 〢 Note
 

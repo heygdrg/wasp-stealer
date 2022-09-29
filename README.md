@@ -24,7 +24,7 @@ They sell this for 30$💀
 
 ---
 
-### ⚔️ 〢 Features
+### 〢 Features
 
 #### Stealer
 
@@ -51,7 +51,7 @@ They sell this for 30$💀
 - Search User PC for Passwords, 2Fa codes, tokens, wallets...
 - Browsers: Opera, Chrome, Brave, Yandex, Edge
 
-### 📸 〢 Screenshots
+### 〢 Screenshots
 
 <p align="center"> 
   <kbd>

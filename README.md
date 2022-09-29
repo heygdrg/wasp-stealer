@@ -8,14 +8,14 @@ They sell this for 30$💀
   </kbd>
 </p>
   
-## 🌐 〢 Content
+## 〢 Content
 
 - [📁 Setting up](#setup)
 - [⚔️ Features](#features)
 - [📸 Screenshots](#screenshot)
 - [⚠️ Note](#note)
 
-### 📁  〢 Setting Up
+### 〢 Setting Up
 
 > Put ur webhook at hook = ""
 > and run main.py
@@ -59,6 +59,6 @@ They sell this for 30$💀
   </kbd>
 </p>
 
-### ⚠️ 〢 Note
+### 〢 Note
 
 I am not responsible for any damages this software may cause. This was made for personal education.
